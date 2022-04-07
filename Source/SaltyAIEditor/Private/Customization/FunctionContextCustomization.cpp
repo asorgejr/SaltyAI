@@ -1,8 +1,7 @@
 // Copyright 2019 - Now Salty Panda Studios. All Rights reserved.
 
-#include "FunctionContextCustomization.h"
+#include "Customization/FunctionContextCustomization.h"
 #include <PropertyHandle.h>
-#include <SubclassOf.h>
 #include "Editor/PropertyEditor/Public/DetailWidgetRow.h"
 
 #define LOCTEXT_NAMESPACE "FFunctionContextCustomization"

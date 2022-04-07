@@ -1,6 +1,7 @@
 // Copyright 2019 - Now Salty Panda Studios. All Rights reserved.
 
-#include "BTComposite_Sequenceloop.h"
+#include "Composites/BTComposite_SequenceLoop.h"
+
 
 UBTComposite_SequenceLoop::UBTComposite_SequenceLoop(const FObjectInitializer& Initializer)
 	:Super(Initializer)

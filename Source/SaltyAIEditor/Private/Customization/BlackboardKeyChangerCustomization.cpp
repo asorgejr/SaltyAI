@@ -1,8 +1,7 @@
 // Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
 
-#include "BlackboardKeyChangerCustomization.h"
+#include "Customization/BlackboardKeyChangerCustomization.h"
 #include <PropertyHandle.h>
-#include <SubclassOf.h>
 #include "Editor/PropertyEditor/Public/DetailWidgetRow.h"
 #include "BehaviorTree/BlackboardComponent.h"
 #include "BehaviorTree/Blackboard/BlackboardKeyType_Bool.h"

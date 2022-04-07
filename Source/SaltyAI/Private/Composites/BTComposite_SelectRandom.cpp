@@ -1,6 +1,6 @@
 // Copyright 2019 - Now Salty Panda Studios. All Rights reserved.
 
-#include "BTComposite_SelectRandom.h"
+#include "Composites/BTComposite_SelectRandom.h"
 
 UBTComposite_SelectRandom::UBTComposite_SelectRandom(const FObjectInitializer& Initializer)
 	:Super(Initializer)

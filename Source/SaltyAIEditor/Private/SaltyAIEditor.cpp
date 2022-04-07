@@ -2,8 +2,8 @@
 
 #include "SaltyAIEditor.h"
 #include <PropertyEditorModule.h>
-#include "FunctionContextCustomization.h"
-#include "BlackboardKeyChangerCustomization.h"
+#include "Customization/BlackboardKeyChangerCustomization.h"
+#include "Customization/FunctionContextCustomization.h"
 
 #define LOCTEXT_NAMESPACE "FSaltyAIEditorModule"
 

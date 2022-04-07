@@ -5,7 +5,7 @@
 #include "Editor/PropertyEditor/Public/IPropertyTypeCustomization.h"
 #include "Editor/PropertyEditor/Public/IDetailCustomization.h"
 #include "InputCoreTypes.h"
-#include "SComboBox.h"
+#include "Widgets/Input/SComboBox.h"
 
 class FFunctionContextCustomization : public IPropertyTypeCustomization
 {

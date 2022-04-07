@@ -1,7 +1,7 @@
 // Copyright 2019 - Now Salty Panda Studios. All Rights reserved.
 
 
-#include "BTT_SetBlackboardProperty.h"
+#include "Tasks/BTT_SetBlackboardProperty.h"
 #include "BehaviorTree/Blackboard/BlackboardKeyType_Bool.h"
 #include "BehaviorTree/Blackboard/BlackboardKeyType_Int.h"
 #include "BehaviorTree/Blackboard/BlackboardKeyType_Float.h"
